@@ -1,0 +1,6 @@
+C:\Users\patiyanp\Source\Repos\cicdsqlserver\cicdsqlserver\bin\Debug\cicdsqlserver.dacpac
+C:\Users\patiyanp\Source\Repos\cicdsqlserver\cicdsqlserver\bin\Debug\cicdsqlserver.dll
+C:\Users\patiyanp\Source\Repos\cicdsqlserver\cicdsqlserver\bin\Debug\cicdsqlserver.pdb
+C:\Users\patiyanp\Source\Repos\cicdsqlserver\cicdsqlserver\obj\Debug\cicdsqlserver.sqlprojAssemblyReference.cache
+C:\Users\patiyanp\Source\Repos\cicdsqlserver\cicdsqlserver\obj\Debug\cicdsqlserver.dll
+C:\Users\patiyanp\Source\Repos\cicdsqlserver\cicdsqlserver\obj\Debug\cicdsqlserver.pdb
